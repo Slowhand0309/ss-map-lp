@@ -91,7 +91,7 @@ export default class Header extends Component {
                   element="contact"
                 >
                   <a className="nav-link" href="#contact">
-                    Contact
+                    Support
                   </a>
                 </Scroll>
               </li>

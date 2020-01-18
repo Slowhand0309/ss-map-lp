@@ -1,34 +1,24 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter New age', // <title>
-  manifestName: 'newage',
+  siteTitle: '神社Map-全国神社巡りの思い出収集', // <title>
+  manifestName: 'ss-map-lp',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#663399',
-  manifestThemeColor: '#663399',
+  manifestBackgroundColor: '#EB6101',
+  manifestThemeColor: '#EB6101',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-newage/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/ss-map-lp/`, // This path is subpath of your hosting https://domain/portfolio
   // social
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    },
-    {
-      icon: 'fa-linkedin-in',
-      name: 'Linkedin',
-      url: 'https://linkedin.com/in/theanubhav/',
+      url: 'https://github.com/Slowhand0309',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'fa-facebook-f',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
+      url: 'https://twitter.com/wes_ja0927',
+    }
   ],
 };
